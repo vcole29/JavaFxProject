@@ -19,7 +19,7 @@ import java.util.Random;
 
 public class UserInterface1 extends Application {
 	
-	// Create dateField member variable
+	// Create dateField variable
 	private TextField dateField;
 	
 	// Create colors array member variable
